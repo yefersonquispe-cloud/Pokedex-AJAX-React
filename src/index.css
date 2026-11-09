@@ -1,0 +1,9 @@
+:root { font-family: Arial, sans-serif; color: #193b45; background: #eaf2f2; font-synthesis: none; text-rendering: optimizeLegibility; }
+
+* { box-sizing: border-box; }
+
+html, body, #root { width: 100%; min-width: 320px; min-height: 100%; margin: 0; padding: 0; }
+
+body { min-height: 100vh; }
+
+#root { max-width: none; }
